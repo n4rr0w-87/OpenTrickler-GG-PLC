@@ -53,6 +53,7 @@ Mein Drucker druckt ziemlich maßgenau. Die Röhrchen und die Schiebeteile sind 
 - hopper_tube (Ø 60,3 × 2,35 × 150 mm) – kein Vasenmodus, 6 Wände
 
 ## Einsätze und Schrauben (zusätzlich zur Original-Stückliste)
-- 28 Gewindeeinsätze M3×5×4: Shield 12, Rear Body 8, Front Body 6, Becherring 2
+- 32 Gewindeeinsätze M3×5×4: Shield 12, Rear Body 8, Front Body 6, Display-Halterung 4, Becherring 2
+- Display-Halterung an die Adapterplatte: 2× M3×10 von unten
 - Grundplatte auf die Waage: 4× M4×12 Zylinderkopf
 - Zusätzliche Shield-Befestigung: 2× M3×12 von unten, 2× M3×6 Linsenkopf von oben (versenkt)

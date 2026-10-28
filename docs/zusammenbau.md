@@ -27,6 +27,12 @@ Hier nur das, was bei meinem Aufbau anders ist oder wo ich hängen geblieben bin
 ## Front Discharger Mount
 Kleiner Trichter unter der Adapterplatte, genau unter dem Auslass. Weite Seite nach oben, Senkungen nach unten. Er wird mit 2× M3×10 von unten durch das vordere Lochpaar des Front Body geklemmt, das hintere Lochpaar bekommt 2× M3×8 ohne Mount.
 
+## Display
+- Halterung: Lage wie im Original, aber mit Einsätzen statt Muttern. 2 Einsätze unten, 2 vorne in der schrägen Fläche.
+- Halterung von unten mit 2× M3×10 durch die Adapterplatte schrauben. Am einfachsten, bevor die Adapterplatte auf das Shield kommt.
+- Rückplatte mit 2× M3×10 von innen an die Halterung schrauben, dann Display einlegen und Front aufsetzen.
+- Drehknopf rechts, Schriftzug unten. Display-Drehung in den Einstellungen auf 0°.
+
 ## Elektronik
 - Pico 2 WH aufs Board, TMC2209 richtig herum stecken (VM/EN beachten).
 - J9: Jumper senkrecht für ein 1:1-Kabel.

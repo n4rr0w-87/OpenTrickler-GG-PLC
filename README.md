@@ -16,6 +16,7 @@ Hier liegen nur die Teile, die ich für meine Waage angepasst bzw. zusammengeste
 - Eigener Waagenteller für den Zapfen der PLC (Bohrung 8,25 × 9,2 mm, Oberfläche bündig mit der Grundplatte).
 - Alle Löcher für Gewindeeinsätze auf 4,4 mm verkleinert (M3×5×4). Die Originale haben 4,7 mm, das war mir zu locker.
 - Schriftzug „OpenTrickler“ auf der Adapterplatte und „OpenTrickler / RESET“ auf der Display-Front (Schrift aus dem Memphis-Mod), jeweils als eigenes Teil für einen Farbwechsel.
+- Display-Halterung mit Gewindeeinsätzen, wird von unten an die Adapterplatte geschraubt.
 - Behälter-Unterteil und Deckel für ein Rohr mit 60 × 2 mm, passendes Rohr zum Drucken.
 - Keine Haube (Pan-Cover), kein Plexiglas – Fenster und Rohr werden gedruckt.
 
