@@ -17,6 +17,7 @@ Hier liegen nur die Teile, die ich für meine Waage angepasst bzw. zusammengeste
 - Alle Löcher für Gewindeeinsätze auf 4,4 mm verkleinert (M3×5×4). Die Originale haben 4,7 mm, das war mir zu locker.
 - Schriftzug „OpenTrickler“ auf der Adapterplatte und „OpenTrickler / RESET“ auf der Display-Front (Schrift aus dem Memphis-Mod), jeweils als eigenes Teil für einen Farbwechsel.
 - Display-Halterung mit Gewindeeinsätzen, wird von unten an die Adapterplatte geschraubt.
+- Pulverbecher mit Gewindeeinsätzen für den Griff.
 - Behälter-Unterteil und Deckel für ein Rohr mit 60 × 2 mm, passendes Rohr zum Drucken.
 - Keine Haube (Pan-Cover), kein Plexiglas – Fenster und Rohr werden gedruckt.
 

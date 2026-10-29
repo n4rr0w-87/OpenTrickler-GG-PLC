@@ -39,3 +39,8 @@ Kleiner Trichter unter der Adapterplatte, genau unter dem Auslass. Weite Seite n
 - Servo-Stecker auf JST PH 2,54 umcrimpen (Werkzeug ist im Full Kit).
 - Firmware, WLAN, Motortest, Servo-Gate: siehe OpenTrickler-RP2040-Controller.
 - Feinmotor-Übersetzung 1.818 (V2).
+
+## Pulverbecher
+- Im Original wird der Griff direkt in den Becher geschraubt. Bei mir sitzen dort zwei Einsätze, der Anschraubblock ist dafür 1,5 mm dicker.
+- Einsätze waagerecht einschmelzen, Becher dazu auf die Seite legen. Die Bohrungen sind 6 mm tief, dahinter bleiben gut 2 mm Wand zum Becherinneren – nicht zu tief drücken.
+- Griff mit 2× M3×6 anschrauben.
