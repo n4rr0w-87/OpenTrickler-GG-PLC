@@ -44,3 +44,9 @@ Kleiner Trichter unter der Adapterplatte, genau unter dem Auslass. Weite Seite n
 - Im Original wird der Griff direkt in den Becher geschraubt. Bei mir sitzen dort zwei Einsätze, der Anschraubblock ist dafür 1,5 mm dicker.
 - Einsätze waagerecht einschmelzen, Becher dazu auf die Seite legen. Die Bohrungen sind 6 mm tief, dahinter bleiben gut 2 mm Wand zum Becherinneren – nicht zu tief drücken.
 - Griff mit 2× M3×6 anschrauben.
+
+## Pulverbehälter
+- Das Unterteil dreht sich als Ventil auf einer M3-Schraube. Im Original schneidet sich die Schraube ihr Gewinde selbst, bei mir sitzt dort ein Einsatz.
+- Die Bohrung ist nur 5 mm tief, darüber liegt der Trichter. Einsatz nur bündig einschmelzen, nicht tiefer.
+- 2 Passscheiben in die Senkung des Interface, M3×8 von hinten durch und in den Einsatz. Länger als 8 mm geht nicht.
+- So weit eindrehen, dass sich das Ventil mit leichtem Widerstand zwischen AUF und ZU drehen lässt, dann die Schraube mit mittelfester Schraubensicherung festsetzen. Die Schraube dreht sich mit dem Unterteil, sonst würde sie sich mit der Zeit lösen.
